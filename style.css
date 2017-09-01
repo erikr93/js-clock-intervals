@@ -2,13 +2,18 @@
 }
 
 #clock img {
+	position: absolute;
 }
 
 #hour {
+	transfrom: rotate(45deg);
 }
 
 #minute {
+	transfrom: rotate(45deg);
 }
 
 #second {
+	transfrom: rotate(45deg);
+
 }
